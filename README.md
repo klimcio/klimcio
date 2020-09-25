@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - Unity / Godot (not decided yet)
 - more functional programming
 
+## Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📫 How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/mariusz-klimek/
