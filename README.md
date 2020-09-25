@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging in Blazor WebAssembly - few observations](https://mariuszklimek.github.io/devblog//devblog/blazor/wasm/debugging)
+- [6 things you need to know about discards in C#](https://mariuszklimek.github.io/devblog//devblog/csharp/discards/)
+- [File Order in F# - the most annoying thing for a beginner?](https://mariuszklimek.github.io/devblog//devblog/fsharp/file-order-in-fsharp/)
+- [Simple and helpful tips for F# Beginners](https://mariuszklimek.github.io/devblog//devblog/fsharp/beginner-tips/)
+- [Querying Application Insights - Public API and Azure API](https://mariuszklimek.github.io/devblog//devblog/azure/app-insights/api/querying)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me:
