@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introducing my new little pet project - file deprivatizer](https://mariuszklimek.github.io/devblog//devblog/pet-projects/deprivatizer)
+- [Creating CLI tools is easier than you think](https://mariuszklimek.github.io/devblog//devblog/cli/getting-started-params)
 - [Plot Twist! I’m changing the way on how I think about this blog](https://mariuszklimek.github.io/devblog//devblog/blog/plot-twist)
 - [Not another blog engine - introduction](https://mariuszklimek.github.io/devblog//devblog/blazor/wasm/for-blogging)
 - [Debugging in Blazor WebAssembly - few observations](https://mariuszklimek.github.io/devblog//devblog/blazor/wasm/debugging)
-- [6 things you need to know about discards in C#](https://mariuszklimek.github.io/devblog//devblog/csharp/discards/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me:
