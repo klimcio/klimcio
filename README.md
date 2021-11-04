@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pet Project Done - Kindle Clipping Converter](https://mariuszklimek.github.io/devblog//devblog/pet-project/converting-kindle-clippings)
 - [Creating CLI tools is easier than you think](https://mariuszklimek.github.io/devblog//devblog/cli/getting-started-params)
 - [Introducing my new little pet project - file deprivatizer](https://mariuszklimek.github.io/devblog//devblog/pet-projects/deprivatizer)
 - [Plot Twist! I’m changing the way on how I think about this blog](https://mariuszklimek.github.io/devblog//devblog/blog/plot-twist)
 - [Not another blog engine - introduction](https://mariuszklimek.github.io/devblog//devblog/blazor/wasm/for-blogging)
-- [Debugging in Blazor WebAssembly - few observations](https://mariuszklimek.github.io/devblog//devblog/blazor/wasm/debugging)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me:
