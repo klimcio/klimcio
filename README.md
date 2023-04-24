@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
-- F#
 - Blazor
 - C#
-- .NET Garbage Collector
+- Godot Engine
 
 ## I plan to learn 
 
-- Unity / Godot (not decided yet)
 - more functional programming
 
 ## Recent blog posts
