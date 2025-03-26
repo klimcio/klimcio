@@ -1,4 +1,4 @@
-# Hi, my name is Mariusz Klimek and I'm a .NET Developer 👋
+# Hi, my name is Mariusz Klimek, and I'm a Full Stack Developer 👋
 
 <!--
 **klimcio/klimcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,19 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on ...
-
-[Irma](https://github.com/klimcio/Irma) or Interactive Restaurant Menu. It's more of a proof of concept and excuse to learn Blazor ;-)
-
 ## 🌱 I’m currently learning
 
 - Blazor
 - C#
-- Godot Engine
-
-## I plan to learn 
-
-- more functional programming
+- Raylib
+- Rust
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
