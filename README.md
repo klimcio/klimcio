@@ -8,17 +8,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ## 🌱 I’m currently learning
 
-- Blazor
-- C#
-- Raylib
-- Rust
+- **Blazor**, which seems like the best way to make websites these days
+- **C#** because this is what I work in 
+- **Rust** and making games with **Macroquad**
 
 ## 📫 How to reach me:
 
