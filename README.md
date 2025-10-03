@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 LinkedIn: https://www.linkedin.com/in/mariusz-klimek/
 
 Twitter: https://twitter.com/MauriceKlimek
+
+Substack: [The Solo Gamedev](https://gamedevdairy.substack.com)
